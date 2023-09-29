@@ -20,17 +20,17 @@
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #575e6a;
+    --section-light-text-color: #fff;
     /* Light section - background color */
     --section-light-bg-color: #141b27;
 
     /* Dark section - text color */
-    --section-dark-text-color: #080b10; /*var(--section-light-bg-color);*/
+    --section-dark-text-color: #fff; /*var(--section-light-bg-color);*/
     /* Dark section - background color */
     --section-dark-bg-color: #575e6a;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-    --section-uni-quote: grey;
+    --section-uni-quote: #d7d7d7;
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
     --section-uni-code-bg-color: #e0ded7;
 
